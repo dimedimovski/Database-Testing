@@ -1,2 +1,2 @@
 # Database-Testing
-Testing CRUDE operations in the database while using Robotframework with Database library.
+Testing CRUD operations in the database while using Robotframework with Database library.
